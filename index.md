@@ -116,7 +116,7 @@ I had the luck of had worked with the best people around and see a lot of them b
 
 **Knowing what your team does** makes your life easy. Looks like a weird thing to say, but answer this: if you had to start from where someone of your team is working today, would you know how hard is to do their job ? Would you be able to deliver, ask for help, convince your peers , burn the midnight oil or get back to management with a convincing argument about doing or not doing it ?
 
-[**Harvard Business Review published an article based on a study that says "If your boss could do your job, You are more likely to be happier at work"**](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work.). 
+[**Harvard Business Review published an article based on a study that says "If your boss could do your job, You are more likely to be happier at work"**](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work). 
 
 It also states that the common wisdom of promoting people from the team to management positions being a bad thing **is wrong**. Life isn't easy for any new manager, but it is not a bad thing to let someone that has tech experience to try and manage a small team, learn and go from there. It also helps shoot down the myth of the Y career. Leadership is a natural progression and can be learned. 
 
